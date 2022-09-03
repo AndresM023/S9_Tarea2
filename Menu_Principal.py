@@ -1,5 +1,4 @@
 import os
-from re import T
 import time
 from Submenu import SubMenu
 from Modulo.funcionesMatemáticas import *
