@@ -30,9 +30,7 @@ while alternativa != "39":
                 print("Saliendo de la opción 1...")
                 time.sleep(1.5)
                 os.system("cls")
-                
-                
-        
+                        
        
     elif alternativa == "2":
         os.system("cls")
